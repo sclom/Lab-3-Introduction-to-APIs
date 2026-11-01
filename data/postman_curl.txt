@@ -1,0 +1,2 @@
+curl --location 'https://icanhazdadjoke.com/' \
+--header 'Accept: application/json'
